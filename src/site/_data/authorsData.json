@@ -1440,5 +1440,19 @@
     "org": {
       "name": "Google"
     }
+  },
+  "aaronlevanthal": {
+    "name": {
+      "given": "Aaron",
+      "family": "Levanthal"
+    },
+    "org": {
+      "name": "Google",
+      "unit": "Chrome Browser Accessibility"
+    },
+    "country": "US",
+    "description": {
+      "en": "Software Engineer"
+    }
   }
 }
